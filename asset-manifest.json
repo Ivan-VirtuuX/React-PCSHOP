@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/React-PCSHOP/static/css/main.0982689e.css",
-    "main.js": "/React-PCSHOP/static/js/main.e6001af7.js",
+    "main.css": "/React-PCSHOP/static/css/main.abd8fdef.css",
+    "main.js": "/React-PCSHOP/static/js/main.43a7227a.js",
     "static/media/ram.png": "/React-PCSHOP/static/media/ram.5f6c15bc810dc53fcf32.png",
     "static/media/gpu.png": "/React-PCSHOP/static/media/gpu.b22ea6dabf57da38e651.png",
     "static/media/gpu2.png": "/React-PCSHOP/static/media/gpu2.19e4b24d20ed5cbd3887.png",
+    "static/media/kirito.jpg": "/React-PCSHOP/static/media/kirito.45982e8dab9fa649495b.jpg",
     "static/media/empty-cart.svg": "/React-PCSHOP/static/media/empty-cart.55fe8e379f3163297f98dfd7eef7cdd2.svg",
     "static/media/sad-emoji.svg": "/React-PCSHOP/static/media/sad-emoji.5dc2ae6d0072e93cd7b513374a50dae5.svg",
     "static/media/cute-emoji.svg": "/React-PCSHOP/static/media/cute-emoji.4631c52ce81126ad7a3855a31c135732.svg",
@@ -12,11 +13,11 @@
     "index.html": "/React-PCSHOP/index.html",
     "static/media/remove.svg": "/React-PCSHOP/static/media/remove.b1fef0aa93fbf25374f4991d23f900d8.svg",
     "static/media/back-arrow.svg": "/React-PCSHOP/static/media/back-arrow.ac63c7c4d2e44bfd03e9bc9511e2d9da.svg",
-    "main.0982689e.css.map": "/React-PCSHOP/static/css/main.0982689e.css.map",
-    "main.e6001af7.js.map": "/React-PCSHOP/static/js/main.e6001af7.js.map"
+    "main.abd8fdef.css.map": "/React-PCSHOP/static/css/main.abd8fdef.css.map",
+    "main.43a7227a.js.map": "/React-PCSHOP/static/js/main.43a7227a.js.map"
   },
   "entrypoints": [
-    "static/css/main.0982689e.css",
-    "static/js/main.e6001af7.js"
+    "static/css/main.abd8fdef.css",
+    "static/js/main.43a7227a.js"
   ]
 }
