@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-PCSHOP/static/css/main.42b43346.css",
-    "main.js": "/React-PCSHOP/static/js/main.95a3e0e8.js",
+    "main.js": "/React-PCSHOP/static/js/main.c397641c.js",
     "static/media/ram.png": "/React-PCSHOP/static/media/ram.5f6c15bc810dc53fcf32.png",
     "static/media/gpu.png": "/React-PCSHOP/static/media/gpu.b22ea6dabf57da38e651.png",
     "static/media/gpu2.png": "/React-PCSHOP/static/media/gpu2.19e4b24d20ed5cbd3887.png",
@@ -15,10 +15,10 @@
     "static/media/remove.svg": "/React-PCSHOP/static/media/remove.b1fef0aa93fbf25374f4991d23f900d8.svg",
     "static/media/back-arrow.svg": "/React-PCSHOP/static/media/back-arrow.ac63c7c4d2e44bfd03e9bc9511e2d9da.svg",
     "main.42b43346.css.map": "/React-PCSHOP/static/css/main.42b43346.css.map",
-    "main.95a3e0e8.js.map": "/React-PCSHOP/static/js/main.95a3e0e8.js.map"
+    "main.c397641c.js.map": "/React-PCSHOP/static/js/main.c397641c.js.map"
   },
   "entrypoints": [
     "static/css/main.42b43346.css",
-    "static/js/main.95a3e0e8.js"
+    "static/js/main.c397641c.js"
   ]
 }
